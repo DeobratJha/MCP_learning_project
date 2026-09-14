@@ -1,0 +1,6 @@
+global:
+  scrap_interval: 5s
+scrape_configs:
+  - job_name: "mcp-server"
+    static_configs:
+      - target: ["host.docker.internal:8000"]

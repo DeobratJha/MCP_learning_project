@@ -1,0 +1,10 @@
+fastmcp
+mcp
+google-adk
+aiosqlite
+asyncpg
+aiohttp
+prometheus-client
+python-dotenv
+google-generativeai
+pydantic

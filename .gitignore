@@ -1,0 +1,4 @@
+.venv/
+.env
+learning_demo.db
+__pycache__/
